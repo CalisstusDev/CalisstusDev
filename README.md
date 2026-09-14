@@ -1,3 +1,4 @@
+<img width="2056" height="765" alt="FBIjpg" src="https://github.com/user-attachments/assets/fc448af1-2d80-4d77-8034-dabd659ef0ab" />
 ## Hi there 👋
 Hi, I'm Gabriel a Full-Stack Developer, AI Engineer  focused on building scalable digital products and intelligent software solutions, CalisstusDev Dee Backend Frontend Engineer iOS Dev, Building digital experience that matter's with modern technologies.
 
